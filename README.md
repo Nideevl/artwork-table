@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,7 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# artwork-table
+React + TypeScript DataTable with server-side pagination and persistent selection using Art Institute of Chicago API
+>>>>>>> 09e5b7456c87da6e992215cc93b3fc43606a3184
